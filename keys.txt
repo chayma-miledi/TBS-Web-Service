@@ -1,0 +1,20 @@
+API Key
+ugUAKw9cmUqqD7akEWhL8thHm
+
+API Key Secret
+9Ry3TXJjfA5oA3nrgUSGw6nXzPMN5EapQfnV7KXW3Pz4JZMjFg
+
+Bearer Token
+AAAAAAAAAAAAAAAAAAAAAMFdhQEAAAAA1ZtTGa9yD4VzmqTbG%2BD0kxfFy3E%3DKhjphSThiev3weHzMxr8ORb2g1eBrlDXEso8Sql7Pfs87XRePu
+
+Access Token
+1497257175386935298-4BOkx8AWP5yt6hOUp6mC7g8E8eCcfr
+
+Access Token Secret
+PApaAKM4vkGvoWf9w8wpgD9bG7ynaW2tG8ymQ4Hp4DcfC
+
+Client Secret
+dG8odvaiMW1SBpEz9ima_1rieET_h-oKGX-LfyIkdkuAmvJFjt
+
+Client ID
+RVdzVXlYa1k3aHF4RHB0OXltOXA6MTpjaQ
