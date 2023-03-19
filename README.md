@@ -4,8 +4,8 @@ This project is a RESTful API developed using Python Flask for organizing stores
 
 ## Installation
 1. Clone this repository
-2. Install the required packages by running pip install -r requirements.txt
-3. Run the app with python app.py
+2. Install the required packages by running ```pip install -r requirements.txt```
+3. Run the app with ```python app.py```
 4. The API will be running at http://localhost:5000
 
 ## API Endpoints
@@ -39,7 +39,6 @@ Then, to run the Docker container:
 ```
 docker run -p 5000:5000 store-inventory-api
 ```
-The API will be accessible at http://localhost:5000.
 
 ## Acknowledgements
-This project was developed as part of the IT325 course at Tunis Business School. Special thanks to Mr Montassar Ben Messaoud for providing guidance and support throughout the project.
+This project was developed as part of the **IT325** course at **Tunis Business School**. Special thanks to **Mr Montassar Ben Messaoud** for providing guidance and support throughout the project.
